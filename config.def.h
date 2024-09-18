@@ -32,6 +32,7 @@ static const Rule rules[] = {
 	{"TelegramDesktop",	"telegram-desktop",	NULL,       1 << 8,	1,           -1 },
 	{"Geany",		"geany",		NULL,       0,		1,           -1 },
 	{"Pcmanfm",		"pcmanfm",		NULL,       0,		1,           -1 },
+	{"Nemo",		"nemo",			NULL,       0,		1,           -1 },
 };
 
 /* layout(s) */
